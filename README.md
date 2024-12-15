@@ -22,7 +22,7 @@ I'm a passionate Computer Science undergraduate student, with a particular inter
 - 🌱 I’m currently learning [a new skill or technology you're exploring]
 - 👯 I’m looking to collaborate on [types of projects you're open to contributing to]
 - 💬 Ask me about [topics you’re knowledgeable about or enjoy discussing]
-- 📄 [Link to your Resume or CV (optional)]
+- 📄 [[Link to your Resume or CV (optional)](https://docs.google.com/document/d/1HOy9MrfYmFFQil6KCxo4Lpx_E0lNbqXS/edit?usp=sharing&ouid=103610388346815413654&rtpof=true&sd=true)]
 - ⚡ Fun fact: [Share something interesting about yourself!]
 
 
@@ -30,14 +30,10 @@ I'm a passionate Computer Science undergraduate student, with a particular inter
 
 Here are some of the technologies and tools I work with:
 
-- **Languages**: Python, JavaScript, Java, C++, TypeScript
-- **Frontend**: React, Vue.js, HTML5, CSS3
-- **Backend**: Node.js, Express, Flask, Django
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools**: Git, Docker, Kubernetes, Webpack, VS Code
-- **Cloud**: AWS, GCP, Azure
+- **Languages**: Fluent in Python, HTML, CSS; familiar with C++, PHP, MySQL
+- **Tools**: Git, VS Code, Google Looker Studio, Jupyter Notebooks.
 
   ## 📫 How to reach me:
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: [meenakshi.rajan.usa@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/meenakshi-s-0902751ab/]
