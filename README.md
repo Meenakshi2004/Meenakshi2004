@@ -22,7 +22,7 @@ I'm a passionate Computer Science undergraduate student, with a particular inter
 - 🌱 I’m currently learning [a new skill or technology you're exploring]
 - 👯 I’m looking to collaborate on [types of projects you're open to contributing to]
 - 💬 Ask me about [topics you’re knowledgeable about or enjoy discussing]
-- 📄 [[Link to your Resume or CV (optional)](https://docs.google.com/document/d/1HOy9MrfYmFFQil6KCxo4Lpx_E0lNbqXS/edit?usp=sharing&ouid=103610388346815413654&rtpof=true&sd=true)]
+- 📄 [[Link to my resume](https://docs.google.com/document/d/1HOy9MrfYmFFQil6KCxo4Lpx_E0lNbqXS/edit?usp=sharing&ouid=103610388346815413654&rtpof=true&sd=true)]
 - ⚡ Fun fact: [Share something interesting about yourself!]
 
 
