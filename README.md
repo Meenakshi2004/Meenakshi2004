@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🚀 About Me
 
-I’m a Computer Science undergraduate passionate about the potential of technology to foster a more equitable and compassionate world. My interests span machine learning, data science, and AI ethics, with a particular focus on addressing the social harms of AI and understanding the deeper connections between technology, society, and humanity.
+I’m a Computer Science undergraduate passionate about fostering a more equitable and compassionate world through the lens of technology. My interests span machine learning, data science, and AI ethics, with a particular focus on addressing the social harms of AI to understand the deeper connections between technology, society, and humanity.
 
 I’m also deeply inspired by ways of knowing that center mental wellness, interconnectedness, spirituality, and healing—principles often found in Indigenous wisdom and decolonial perspectives. I believe that reclaiming and integrating these approaches can guide us toward creating technologies and systems that support both individual flourishing and collective well-being, addressing the deep pain and inequities that persist in our world.
 
