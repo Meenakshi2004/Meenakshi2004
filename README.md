@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 I’m a Computer Science undergraduate passionate about fostering a more equitable and compassionate world through the lens of technology. My interests span machine learning, data science, and AI ethics, with a particular focus on addressing the social harms of AI to understand the deeper connections between technology, society, and humanity.
 
-I’m also deeply inspired by ways of knowing that center mental wellness, interconnectedness, spirituality, and healing—principles often found in Indigenous wisdom and decolonial perspectives. I believe that reclaiming and integrating these approaches can guide us toward creating technologies and systems that support both individual flourishing and collective well-being, addressing the deep pain and inequities that persist in our world.
+I’m also deeply inspired by ways of knowing that center mental wellness, interconnectedness, spirituality, and healing—principles rooted in Indigenous wisdom and decolonial perspectives. I believe that reclaiming and integrating these approaches can guide us toward creating technologies and systems that support both individual flourishing and collective well-being, addressing the deep pain and inequities that persist in our world.
 
 As an AI/ML Fellow at Cornell Tech, I’ve developed skills in exploratory data analysis and model deployment, while grappling with the ethical complexities of the systems we build. These experiences fuel my aspiration to contribute to a society where technology serves as a tool for holistic progress, always through a lens that prioritizes fairness, inclusivity, and safety.
 
