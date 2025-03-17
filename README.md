@@ -27,11 +27,12 @@ Here are some ideas to get you started:
 
 🚀 About Me
 
-I’m an undergraduate Computer Science student passionate about using technology to foster a more equitable and sustainable world. My interests span machine learning, artificial intelligence (AI), and large language models (LLMs), particularly in addressing the ethical implications of emerging technologies. I aim to contribute to the development and regulation of technology that is intentionally designed to prioritize equity, mental wellness, and safety, and to understand the deeper connections between technology, society, and humanity.
+I’m an undergraduate Computer Science student passionate about using technology to foster a more equitable and sustainable world. My interests span machine learning, artificial intelligence (AI), and large language models (LLMs), particularly in addressing the ethical implications of emerging technologies and to understand the deeper connections between technology, society, and humanity.
 
 I’m also deeply inspired by ways of knowing that center mental wellness, interconnectedness, spirituality, and healing—principles rooted in Indigenous wisdom and decolonial perspectives. I believe that reclaiming and integrating these approaches can guide us toward creating technologies and systems that support both individual flourishing and collective well-being, addressing the deep pain and inequities that persist in our world.
 
-As an AI/ML Fellow at Cornell Tech, I’ve developed skills in exploratory data analysis and model deployment, while grappling with the ethical complexities of the systems we build. These experiences fuel my aspiration to contribute to a society where technology serves as a tool for holistic progress, always through a lens that prioritizes fairness, inclusivity, and safety.
+As an AI/ML Fellow at Cornell Tech, I’ve developed skills in exploratory data analysis and model deployment, while grappling with the ethical complexities of the systems we build. These experiences fuel my aspiration to contribute to a society where technology serves as a tool for holistic progress, always through a lens that prioritizes equity and inclusivity, mental wellness, and safety.
+
 
 - ⚡ Fun fact: I'm a practitioner of yoga & meditation, and am a Sanskrit speaker!
 - 🌱 I’m currently learning about Computational Social Science
