@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 🚀 About Me
 
-I’m an undergraduate Computer Science student passionate about using technology to foster a more equitable and sustainable world. My interests span machine learning, artificial intelligence (AI), and large language models (LLMs), particularly in addressing the ethical implications of emerging technologies and to understand the deeper connections between technology, society, and humanity.
+I'm an undergraduate Computer Science student passionate about leveraging technology to foster a more sustainable, compassionate, and equitable world. My interests lie at the intersection of technology, society, and culture—shaped by a transnational consciousness and my lived experience as a second-generation immigrant.
 
-I’m also deeply inspired by ways of knowing that center mental wellness, interconnectedness, spirituality, and healing—principles, which are rooted in Indigenous wisdom. I believe that reclaiming and integrating these approaches can guide us toward creating technologies and systems that support both individual flourishing and collective well-being, addressing the deep pain and inequities that persist in our world.
+I'm especially curious about the ethical development of emerging technologies like artificial intelligence (AI), machine learning (ML), and large language models (LLMs). I approach these tools not just as technical innovations, but as deeply social systems with real-world impacts—particularly in the areas of mental wellness, equity, and collective healing. Deeply inspired by frameworks rooted in Indigenous knowledge and spirituality, I believe in designing technology with care, interconnectedness, and responsibility. I see this work as an opportunity to reimagine systems that prioritize community, empathy, and safety.
 
-As an AI/ML Fellow at Cornell Tech, I’ve developed skills in exploratory data analysis and model deployment, while grappling with the ethical complexities of the systems we build. These experiences fuel my aspiration to contribute to a society where technology serves as a tool for holistic progress, always through a lens that prioritizes fairness, inclusivity, and safety.
+As an AI/ML Fellow at Cornell Tech, I’ve gained hands-on experience in exploratory data analysis, model building, and deployment—while continuously reflecting on the ethical, social, and cultural dimensions of the systems we create.
 
 
 - ⚡ Fun fact: I'm a practitioner of yoga & meditation, and am a Sanskrit speaker!
