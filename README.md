@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 
 🚀 About Me
 
-I'm an undergraduate Computer Science student passionate about leveraging technology to foster a more sustainable, compassionate, and equitable world. My interests lie at the intersection of technology, society, and culture—shaped by a transnational consciousness and my lived experience as a second-generation immigrant.
+I’m a third-year Computer Science student passionate about the intersection of technology, knowledge systems, cultural preservation, and mental health. I’m drawn to questions about how we can design responsible, community-centered technologies—especially as AI/ML reshape society in this era of profound transformation.
 
-I'm especially curious about the ethical development of emerging technologies like artificial intelligence (AI), machine learning (ML), and large language models (LLMs). I approach these tools not just as technical innovations, but as deeply social systems with real-world impacts—particularly in the areas of mental wellness, equity, and collective healing. Deeply inspired by frameworks rooted in Indigenous knowledge and spirituality, I believe in designing technology with care, interconnectedness, and responsibility. I see this work as an opportunity to reimagine systems that prioritize community, empathy, and safety.
+As an AI/ML Fellow at Cornell Tech, I’ve gained hands-on experience in exploratory data analysis, model building, and deployment, while reflecting on the ethical, social, and cultural dimensions of the systems we create. My perspective is shaped by a transnational consciousness and my lived experience as a second-generation immigrant, grounding my work in values of equity, empathy, and care.
 
-As an AI/ML Fellow at Cornell Tech, I’ve gained hands-on experience in exploratory data analysis, model building, and deployment—while continuously reflecting on the ethical, social, and cultural dimensions of the systems we create.
+I’m especially curious about emerging technologies like large language models and their potential to both empower and challenge communities. I see technology not just as a set of tools, but as a deeply social force—one that can be shaped toward more connected, culturally aware, and inclusive futures.
 
 
-- ⚡ Fun fact: I'm a practitioner of yoga & meditation, and am a Sanskrit speaker!
-- 🌱 I’m currently learning about Computational Social Science
+- ⚡ Fun fact: I practice yoga and meditation, and I speak Sanskrit!
+- 🌱 Recently completed a specialization in Computational Social Science.
 - 😄 Pronouns: she/her
 
 
