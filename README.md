@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 I’m a third-year Computer Science student passionate about the intersection of technology, knowledge systems, cultural preservation, and mental health. I’m drawn to questions about how we can design responsible, community-centered technologies—especially as AI/ML reshape society in this era of profound transformation.
 
-As an AI/ML Fellow at Cornell Tech, I’ve gained hands-on experience in exploratory data analysis, model building, and deployment, while reflecting on the ethical, social, and cultural dimensions of the systems we create. My perspective is shaped by a transnational consciousness and my lived experience as a second-generation immigrant, grounding my work in values of equity, empathy, and care.
+As an AI/ML Fellow at Cornell Tech, I’ve gained hands-on experience in exploratory data analysis, model building, and deployment, while reflecting on the ethical, social, and cultural dimensions of the systems we create. My perspectives are shaped by pluralistic worldviews and my experience as a second-generation immigrant.
 
-I’m especially curious about emerging technologies like large language models and their potential to both empower and challenge communities. I see technology not just as a set of tools, but as a deeply social force—one that can be shaped toward more connected, culturally aware, and inclusive futures.
+I’m especially curious about emerging technologies like large language models and their potential to both empower and challenge communities. I see technology not just as a set of tools, but as a catalyst to shaping toward more connected, culturally aware, and inclusive futures, once used responsibly.
 
 
 - ⚡ Fun fact: I practice yoga and meditation, and I speak Sanskrit!
