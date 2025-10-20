@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🚀 About Me
 
-I’m a third-year Computer Science student passionate about the intersection of technology, knowledge systems, dharmā, and mental health. I’m drawn to questions about how we can design responsible, community-centered technologies—especially as AI/ML reshape society in this era of profound transformation.
+I’m a third-year Computer Science student passionate about the intersection of computing, knowledge systems, dharmā, and mental health. I’m drawn to questions about how we can design responsible, community-centered technologies—especially as AI/ML reshape society in this era of profound transformation.
 
 As an AI/ML Fellow at Cornell Tech, I’ve gained hands-on experience in exploratory data analysis, model building, and deployment, while reflecting on the ethical, social, and cultural dimensions of the systems we create. 
 
